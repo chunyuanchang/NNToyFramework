@@ -1,2 +1,2 @@
 # NNToyFramework
-computation graph and chain rule
+# computation graph and chain rule
