@@ -7,3 +7,4 @@ Neural Network for myself through python. My goals are as below.
 ...
 
 https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
+https://github.com/omaraflak/python-neural-networks
